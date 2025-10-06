@@ -1,2 +1,0 @@
-# Advance
-Company Lite FrameWork
